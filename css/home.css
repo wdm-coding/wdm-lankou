@@ -1,0 +1,410 @@
+			header {
+				width: 100%;
+				height: 138px;
+				background-color: #000;
+			}
+			a{
+				text-decoration: none !important;
+			}
+			/* home-banner */
+			.home-banner {
+				width: 100%;
+				height: 381px;
+				position: relative;
+			}
+
+			.home-banner-pic {
+				position: relative;
+				width: 100%;
+				height: 100%;
+				overflow: hidden;
+			}
+
+			.home-banner-ul {
+				position: absolute;
+				width: 8100px;
+				height: 362px;
+				/* left:-1050px; */
+			}
+
+			.home-banner-ul li {
+				width: 1350px;
+				height: 100%;
+				float: left;
+				/* border: 1px #000000 solid; */
+			}
+			.home-banner-ul li img{
+				width:100%;height:100%;
+			}
+			.home-banner-point {
+				position: absolute;
+				bottom: 0px;
+				left: 47%;
+			}
+			.home-banner-point-ul li {
+				width: 8px;
+				height: 8px;
+				border-radius: 50%;
+				float: left;
+				margin-right: 10px;
+				background-color: #999;
+			}
+			.button-left {
+				position: absolute;
+				left: 190px;
+				top: 150px;
+			}
+			.button-right {
+				position: absolute;
+				right: 190px;
+				top: 150px;
+			}
+
+			.home-banner-button img {
+				width: 100%;
+				height: 90px;
+			}
+
+			.space1 {
+				width: 100%;
+				height: 60px;
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			/* page-banner1 */
+			.page-banner1 {
+				width: 100%;
+				height: 658px;
+				position: relative;
+				overflow: hidden;
+			}
+			
+			.page-banner1-h1 {
+				text-align: center;
+				overflow: hidden;
+			}
+
+			.page-banner1-h1 h1 {
+				font-size:38px;
+				margin-bottom:30px;
+			}
+			.page-banner1-box {
+				position: relative;
+				width: 100%;
+				height: 548px;
+			}
+
+			.page-banner1-ul {
+				position: absolute;
+				width: 500%;
+				height: 548px;
+				left:0px;
+			}
+
+			.page-banner1-ul li {
+				width: 20%;
+				height: 100%;
+				float: left;
+				 /* border: 1px #8A2BE2 solid; */ */
+			}
+
+			.col-xs-4 {
+				/* border: 1px seagreen solid; */
+				height: 548px;
+			}
+			.goos-pic{
+				width:417px;height:387px;
+			}
+			.page-banner1-point {
+				position: absolute;
+				bottom: -20px;
+				left: 48%;
+			}
+
+			.page-banner1-point-ul li {
+				width: 8px;
+				height: 8px;
+				border-radius: 50%;
+				float: left;
+				margin-right: 10px;
+				background-color: #999;
+			}
+			.goods-buy:hover{
+				background-color: #D61B52;
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			.space2 {
+				width: 100%;
+				height: 76px;
+			}
+
+			/* land1*/
+			.land1 {
+				width: 100%;
+				height: 604px;
+			}
+
+			.land1-h1 {
+				text-align: center;
+				overflow: hidden;
+			}
+			.land1-h1 h1{
+				font-size:38px;
+				color: #000;
+				margin-bottom:25px;
+			}
+			.land1-h2{
+				text-align: left;
+				margin-left:20px;
+				overflow: hidden;
+				margin-top:5px;
+			}
+			.land1-h2 h2{
+				font-size:30px;
+				color: #000;
+			}
+			.land1-h2 p{
+				font-size:16px;
+				color: #666;
+			}
+			.land1-pic {
+				width: 1230px;
+				height: 440px;
+				margin: 0 auto;
+			}
+
+			.land1-pic img {
+				width: 100%;
+				height: 100%;
+			}
+
+
+
+
+
+
+
+			/* page-banner2 */
+			.page-banner2 {
+				margin-top:40px;
+				width: 100%;
+				height: 568px;
+				overflow: hidden;
+			}
+
+			.page-banner2-box {
+				position: relative;
+				width: 100%;
+				height: 548px;
+			}
+
+			.page-banner2-ul {
+				position: absolute;
+				width: 500%;
+				height: 548px;
+			}
+
+			.page-banner2-ul li {
+				width: 20%;
+				height: 100%;
+				float: left;
+				/* border: 1px #8A2BE2 solid; */
+			}
+
+			.col-xs-4 {
+				/* border: 1px seagreen solid; */
+				height: 548px;
+			}
+
+			.page-banner2-point {
+				position: absolute;
+				bottom: -20px;
+				left: 48%;
+			}
+			.page-banner2-point-ul li {
+				width: 8px;
+				height: 8px;
+				border-radius: 50%;
+				float: left;
+				margin-right: 10px;
+				background-color: #999;
+			}
+			.goods-massge{
+				text-align: center;
+			}
+			.goods-massge h3{
+				font-size:26px;
+				color: #000;
+			}
+			.goods-massge p{
+				font-size:17px;
+				color: #666;
+			}
+			.goods-massge span{
+				font-size:20px;
+				font-weight:bold;
+				color: #000;
+			}
+			.goods-buy{
+				width:110px;height:38px;
+				background-color:#000;
+				overflow: hidden;
+				position: absolute;
+				left:50%;margin-left:-55px;
+			}
+			.goods-buy h5{
+				font-size:14px;
+				color:#fff;
+				text-align: center;
+			}
+			.space3 {
+				width: 100%;
+				height: 70px;
+			}
+
+			/* land2 */
+
+			.land2 {
+				width: 100%;
+				height: 530px;
+			}
+
+			.land2-h1 {
+				text-align: center;
+				overflow: hidden;
+				margin-top:5px;
+				margin-bottom:20px;
+			}
+			.land2-h1 h1{
+				font-size:38px;
+				color:#000;
+			}
+			.land2-pic {
+				width: 1230px;
+				height: 440px;
+				margin: 0 auto;
+				background-color: #2E8B57;
+			}
+
+			.land2-pic img {
+				width: 100%;
+				height: 100%;
+			}
+
+
+			.space4 {
+				width: 100%;
+				height: 80px;
+			}
+
+			/* page-three */
+
+			.page-three {
+				width: 100%;
+				height: 548px;
+				padding-left:20px;
+			}
+			.page-three-h1{
+				overflow: hidden;
+				text-align: center;
+				margin-bottom:20px;
+			}
+			.page-three-h1 h1{
+				font-size:38px;
+				color: #000;
+			}
+			.page-three-pic ul li{
+				height:458px;
+			}
+			.page-three-pic ul li img{
+				width:387px;height:322px;
+			}
+			.sever-massge{
+				text-align: center;
+			}
+			.sever-massge h3{
+				font-size:28px;
+				color:#000;
+			}
+			.sever-massge p{
+				font-size:17px;
+				color:#666;
+			}
+			.sever-buy{
+				width:110px;height:38px;
+				background-color: #000;
+				margin:0 auto;
+			}
+			.sever-buy:hover{
+				background-color: #00FFFF;
+			}
+			.sever-buy h5{
+				font-size:14px;
+				color:#fff;
+				line-height:38px;
+				text-align: center;
+			}
+			
+			.space5 {
+				width: 100%;
+				height: 100px;
+			}
+
+			.land3 {
+				width: 100%;
+				height: 362px;
+				background-color: aqua;
+			}
+			.land3-pic img{
+				width: 100%;
+				height: 100%;
+			}
+			footer {
+				width: 100%;
+				height: 318px;
+				background-color: black;
+			}
